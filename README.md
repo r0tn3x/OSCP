@@ -1,4 +1,4 @@
-# OSCP+ Resource Repository
+# OSCP+ Resources
 
 **Author:** [r0tn3x](https://github.com/r0tn3x)  
 **OSCP+ Certified:** December 7, 2025  
