@@ -1,0 +1,33 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+*~
+
+# Personal notes
+personal-notes.md
+.private/
+
+# Credentials
+*.key
+*.pem
+id_rsa*
+credentials.txt
+passwords.txt
+
+# Large binaries (optional - you may want to keep some)
+# *.exe
+# *.dll
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
